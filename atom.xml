@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chuyiz.github.io</id>
     <title>Cy&apos;s blog</title>
-    <updated>2020-05-30T18:43:25.489Z</updated>
+    <updated>2020-05-30T18:45:06.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chuyiz.github.io"/>
     <link rel="self" href="https://chuyiz.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://chuyiz.github.io/post/ming-mei-wu-hou-de-za-ji</id>
         <link href="https://chuyiz.github.io/post/ming-mei-wu-hou-de-za-ji">
         </link>
-        <updated>2020-05-29T13:03:56.000Z</updated>
+        <updated>2020-05-29T06:03:56.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[写在25岁之前]]></title>
